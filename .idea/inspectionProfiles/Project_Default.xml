@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiosqlite" />
+          <option value="alembic" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="asyncpg" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="fastapi" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="lxml" />
+          <option value="Mako" />
+          <option value="MarkupSafe" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="PyPDF2" />
+          <option value="python-docx" />
+          <option value="python-multipart" />
+          <option value="sniffio" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="uvicorn" />
+          <option value="flash-att" />
+          <option value="torch" />
+          <option value="transformers" />
+          <option value="accelerate" />
+          <option value="peft" />
+          <option value="bitsandbytes" />
+          <option value="sentencepiece" />
+          <option value="aiofiles" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
